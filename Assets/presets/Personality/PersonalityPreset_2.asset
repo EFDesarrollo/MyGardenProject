@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 074665fbc94bd334c8cf0ba44307cb71, type: 3}
+  m_Name: PersonalityPreset_2
+  m_EditorClassIdentifier: 
+  Name: Extrovertido
+  Description: "Es una actitud t\xEDpica que se caracteriza por la concentraci\xF3n
+    del inter\xE9s en un objeto externo. Los extrovertidos se interesan por el mundo
+    exterior de la gente y de las cosas."
+  AdvDescription: "Aumenta los efectos de las dem\xE1s ventajas"
+  DisadvDescription: "Vienen m\xE1s bichos"
+  Sprite: {fileID: 0}
+  Adv_Disadv: 2

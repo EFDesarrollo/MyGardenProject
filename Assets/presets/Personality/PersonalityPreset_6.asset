@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 074665fbc94bd334c8cf0ba44307cb71, type: 3}
+  m_Name: PersonalityPreset_6
+  m_EditorClassIdentifier: 
+  Name: "Intuici\xF3n"
+  Description: "Muy so\xF1adores y fantasean bastante con el futuro / Tienden a emprender
+    todo tipos de proyectos y aventuras."
+  AdvDescription: "Si dejas una planta sin posci\xF3n"
+  DisadvDescription: "Si hay m\xE1s de una planta sin poci\xF3n solo a una se le
+    aplica la ventaja y al resto se le duplican los bichos."
+  Sprite: {fileID: 0}
+  Adv_Disadv: 6
