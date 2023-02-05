@@ -57,20 +57,5 @@ public class DragDropController : MonoBehaviour
         underground.SetActive(!underground.active);
         outside.SetActive(!outside.active);
     }
-    void MouseDragAndDrop()
-    {
-        if (!Input.GetMouseButton(0))
-        {
-            if (isSliding)
-            {
-                //ThrowBall();
-            }
-            isSliding = false;
-            return;
-        }
-        isSliding = true;
-        Vector2 worldClickPosition = cam.ScreenToWorldPoint(Input.mousePosition);
-        if (worldClickPosition.y < -2.8) return;
-        //ballRb.position = worldClickPosition;
-    }
+
 }

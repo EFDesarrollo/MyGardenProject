@@ -7,7 +7,16 @@ public class FlowerController : MonoBehaviour
     public List<GameObject> flowerSpawner = new List<GameObject>();
     public List<int> lives = new List<int> ();
     public int position = 0;
-
+    public int wave, activeOnWave;
+    bool x;
+    private void Update()
+    {
+        if (wave != GameManager.instance.wave)
+        {
+            wave = GameManager.instance.wave;
+            ActivateSpawner();
+        }
+    }
     public void ActivateSpawner() 
     {
         List<FlowerPreset> temp = GameObject.FindGameObjectsWithTag("GameController")[0].GetComponent<GameManager>().presets;

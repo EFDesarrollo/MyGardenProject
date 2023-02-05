@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UIElements;
 using UnityEngine.WSA;
 
 public class EnemieSpawner : MonoBehaviour
@@ -31,6 +32,7 @@ public class EnemieSpawner : MonoBehaviour
             wave = GameManager.instance.wave;
             if (activeOnWave <= wave)
             {
+                enemieObjetive.GetComponent<SpriteRenderer>().enabled = true;
                 bool x = false;
                 int rand = Random.Range(0, 1000);
                 for (int i = 0; i < GameManager.instance.adv_Disadv_P.Count; i++)
