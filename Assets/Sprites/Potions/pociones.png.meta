@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f5911e28e90134a459f63d4c3131e1dc
+guid: 44e6570680e91bf42be5719dffcca4e0
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 512
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -117,64 +117,64 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: planta4_0
+      name: pociones_0
       rect:
         serializedVersion: 2
-        x: 862
-        y: 631
-        width: 699
-        height: 984
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 860
+        y: 1232
+        width: 524
+        height: 723
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c9b8d35c15c3ae48a5027f3b3d04946
-      internalID: 1929266773
+      spriteID: 3954f745d5b332a48b1d05dbe12edc3b
+      internalID: -145369780
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: planta4_1
+      name: pociones_1
       rect:
         serializedVersion: 2
-        x: 1604
-        y: 672
-        width: 701
-        height: 984
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1787
+        y: 1232
+        width: 522
+        height: 723
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55813ce2aa4d2b84f88af3ca942341af
-      internalID: -974238407
+      spriteID: 1a37f8d4d21b47f46aef7fb4cca246a7
+      internalID: 999524642
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: planta4_2
+      name: pociones_2
       rect:
         serializedVersion: 2
-        x: 2322
-        y: 638
-        width: 476
-        height: 984
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2688
+        y: 1232
+        width: 524
+        height: 723
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e92d47578d7a834bb6fedd558438c10
-      internalID: -1652008236
+      spriteID: bba4011867fe7e0478f35c9874d92733
+      internalID: -272144627
       vertices: []
       indices: 
       edges: []
@@ -190,9 +190,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      planta4_1: -974238407
-      planta4_0: 1929266773
-      planta4_2: -1652008236
+      pociones_2: -272144627
+      pociones_1: 999524642
+      pociones_0: -145369780
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

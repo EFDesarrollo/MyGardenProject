@@ -12,7 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 16bfa6effeb89c148b2253272fdc01c8, type: 3}
   m_Name: Flor_3
   m_EditorClassIdentifier: 
-  Sprite: {fileID: 0}
+  Sprite1: {fileID: 106133555, guid: 47b5b0d61a9b1dc45b9d15ecfd5083c6, type: 3}
+  Sprite2: {fileID: -2108159035, guid: 47b5b0d61a9b1dc45b9d15ecfd5083c6, type: 3}
+  Sprite3: {fileID: 738540841, guid: 47b5b0d61a9b1dc45b9d15ecfd5083c6, type: 3}
   Name: 3
   Description: 
   Type: 1

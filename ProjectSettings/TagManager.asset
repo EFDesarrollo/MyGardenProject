@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - MenuController
+  - GameManager
+  - OptionsCanvas
+  - MainMenuCanvas
+  - GroundObject
+  - Enemy
   layers:
   - Default
   - TransparentFX

@@ -45,7 +45,7 @@ public class DeckMenu : MonoBehaviour
         for (int i = 0; i < flowerPresets.Count; i++)
         {
             GameObject prefab = Instantiate(cardUIPrefab, parent);
-            prefab.GetComponent<CardUI>().setImage(flowerPresets[i].Sprite);
+            prefab.GetComponent<CardUI>().setImage(flowerPresets[i].Sprite1);
             prefab.GetComponent<CardUI>().inDeck = IsInPlayerDeck(flowerPresets[i]);
             prefab.GetComponent<CardUI>().preset = flowerPresets[i];
             cardsPrefabList.Add(prefab);
