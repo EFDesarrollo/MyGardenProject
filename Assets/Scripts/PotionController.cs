@@ -6,12 +6,10 @@ using UnityEngine;
 public class PotionController : MonoBehaviour
 {
     public GameObject ball;
-    public Rigidbody2D pivote;
     public float reactionTime;
+    LayerMask layerMask;
 
     private Camera cam;
-    [SerializeField]
-    private Rigidbody2D ballRb;
     private bool isSliding;
 
     // Start is called before the first frame update

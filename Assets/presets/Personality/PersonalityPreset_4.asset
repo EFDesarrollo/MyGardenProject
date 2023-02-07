@@ -17,5 +17,5 @@ MonoBehaviour:
     para conectar con los dem\xE1s."
   AdvDescription: Las pociones afectan a las plantas de alado
   DisadvDescription: "Cada bicho que llegue a la planta afecta a las de alado tambi\xE9n"
-  Sprite: {fileID: 0}
+  Sprite: {fileID: 659696902, guid: 08ca550c2622d2b4bacb5a61d78ab031, type: 3}
   Adv_Disadv: 4

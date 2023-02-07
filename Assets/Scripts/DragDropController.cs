@@ -48,6 +48,7 @@ public class DragDropController : MonoBehaviour
             if (outside.active)
                 return;
             ChangeView();
+            CancelInvoke();
         }
         mouseButtonDownPosition = new Vector3(0,0,0);
         mouseButtonUpPosition = new Vector3(0, 0, 0);

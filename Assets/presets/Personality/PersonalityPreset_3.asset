@@ -18,5 +18,5 @@ MonoBehaviour:
   AdvDescription: Hay probabilidad de que alguna(s)  planta tenga inmunidad a los
     bichos 1 ronda.
   DisadvDescription: Tiienen 2 pociones menos a partir de la ronda 3
-  Sprite: {fileID: 0}
+  Sprite: {fileID: 1760123237, guid: 08ca550c2622d2b4bacb5a61d78ab031, type: 3}
   Adv_Disadv: 3

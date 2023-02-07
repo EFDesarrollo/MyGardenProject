@@ -13,10 +13,9 @@ MonoBehaviour:
   m_Name: PersonalityPreset_2
   m_EditorClassIdentifier: 
   Name: Extrovertido
-  Description: "Es una actitud t\xEDpica que se caracteriza por la concentraci\xF3n
-    del inter\xE9s en un objeto externo. Los extrovertidos se interesan por el mundo
-    exterior de la gente y de las cosas."
+  Description: Los extrovertidos se interesan por el mundo exterior de la gente y
+    de las cosas.
   AdvDescription: "Aumenta los efectos de las dem\xE1s ventajas"
   DisadvDescription: "Vienen m\xE1s bichos"
-  Sprite: {fileID: 0}
+  Sprite: {fileID: 368597862, guid: 08ca550c2622d2b4bacb5a61d78ab031, type: 3}
   Adv_Disadv: 2

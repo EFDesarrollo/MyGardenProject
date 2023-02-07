@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Name: Introvertido
   Description: Los introvertidos se interesan principalmente por sus pensamientos
-    y sentimientos, por su mundo interior. Tienden a ser profundamente introspectivos.
+    y sentimientos. Tienden a ser profundamente introspectivos.
   AdvDescription: Probabilidad de que vengan menos bichos.
   DisadvDescription: Si en 3 turnos una planta no le llegan bichos en el siguiente
     le llegan 2.
-  Sprite: {fileID: 0}
+  Sprite: {fileID: 1037564875, guid: 08ca550c2622d2b4bacb5a61d78ab031, type: 3}
   Adv_Disadv: 1

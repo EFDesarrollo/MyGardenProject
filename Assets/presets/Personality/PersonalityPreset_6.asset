@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: PersonalityPreset_6
   m_EditorClassIdentifier: 
   Name: "Intuici\xF3n"
-  Description: "Muy so\xF1adores y fantasean bastante con el futuro / Tienden a emprender
+  Description: "Muy so\xF1adores y fantasean bastante con el futuro y tienden a emprender
     todo tipos de proyectos y aventuras."
   AdvDescription: "Si dejas una planta sin posci\xF3n"
   DisadvDescription: "Si hay m\xE1s de una planta sin poci\xF3n solo a una se le
     aplica la ventaja y al resto se le duplican los bichos."
-  Sprite: {fileID: 0}
+  Sprite: {fileID: 961954598, guid: 08ca550c2622d2b4bacb5a61d78ab031, type: 3}
   Adv_Disadv: 6

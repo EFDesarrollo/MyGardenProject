@@ -13,10 +13,9 @@ MonoBehaviour:
   m_Name: PersonalityPreset_5
   m_EditorClassIdentifier: 
   Name: "Sensaci\xF3n"
-  Description: "Se suelen guiar de las sensaciones internas. / Son personas que se
-    sienten bien interactuando con los dem\xE1s y necesitan cambiar constantemente
-    de estimulos."
+  Description: "Se suelen guiar de las sensaciones internas disfrutan interactuando
+    con los dem\xE1s y necesitan cambiar constantemente de estimulos."
   AdvDescription: Hay una pista de color sobre la planta
   DisadvDescription: Los bichos quitan 2 vidas
-  Sprite: {fileID: 0}
+  Sprite: {fileID: -1191943619, guid: 08ca550c2622d2b4bacb5a61d78ab031, type: 3}
   Adv_Disadv: 5
